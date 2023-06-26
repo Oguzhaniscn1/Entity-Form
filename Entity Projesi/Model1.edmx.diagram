@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="af63906a3db24d3d86caac5747f742e0" Name="Diagram1">
+        <EntityTypeShape EntityType="SatisyapModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SatisyapModel.tbl_kategori" Width="1.5" PointX="0.5" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SatisyapModel.tbl_musteri" Width="1.5" PointX="7.625" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SatisyapModel.tbl_satis" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SatisyapModel.tbl_urun" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="SatisyapModel.FK_tbl_urun_tbl_kategori" ManuallyRouted="false" />
+        <AssociationConnector Association="SatisyapModel.FK_tbl_satis_tbl_musteri" ManuallyRouted="false" />
+        <AssociationConnector Association="SatisyapModel.FK_tbl_satis_tbl_urun" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

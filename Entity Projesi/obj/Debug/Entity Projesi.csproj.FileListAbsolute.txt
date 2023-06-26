@@ -1,0 +1,63 @@
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.exe.config
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.exe
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.pdb
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.dll
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.xml
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Form1.resources
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.kategori.resources
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Properties.Resources.resources
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.GenerateResource.cache
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.CopyComplete
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.exe
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.pdb
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csprojAssemblyReference.cache
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.musteri.resources
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Urun.resources
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Satis.resources
+C:\Users\tugay.aydin\Desktop\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.İstatistik.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.exe.config
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.exe
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.pdb
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.dll
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.xml
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csprojAssemblyReference.cache
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Form1.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.kategori.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.musteri.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Properties.Resources.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Satis.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Urun.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.İstatistik.resources
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.GenerateResource.cache
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.CopyComplete
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.exe
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.pdb
+C:\Users\tugay.aydin\Desktop\Projeler 19.Hafta-1\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Login.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.exe.config
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.exe
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\Entity Projesi.pdb
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.xml
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.AssemblyReference.cache
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Form1.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.kategori.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Login.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.musteri.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Properties.Resources.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Satis.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.Urun.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity_Projesi.İstatistik.resources
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.GenerateResource.cache
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.csproj.CopyComplete
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.exe
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Projeler 19.Hafta-2\Entity Projesi\Entity Projesi\obj\Debug\Entity Projesi.pdb
